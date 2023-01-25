@@ -3,7 +3,9 @@
 
 
 # 미리 보기
-<img width="100%" src="https://user-images.githubusercontent.com/102597172/214474047-5f99ea94-a41b-4b3d-a6f8-e572c2f38cfc.png">
+<div align="center"><img width="60%" src="https://user-images.githubusercontent.com/102597172/214474047-5f99ea94-a41b-4b3d-a6f8-e572c2f38cfc.png"></div>
+
+<img width="1007" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214615256-d4578f1a-d17a-4e82-9516-1c0dbbdbcccb.png">
 
 
 # 공유 
