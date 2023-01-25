@@ -9,16 +9,15 @@
 - [x] 등록만 해도 언제든 헤드헌터들의 제안을 받을 수 있는 시스템 (취업, 이직)
 - [x] 내가 좋아하는 개발자들을 즐겨찾기에 추가하여 꾸준히 팔로잉 (소셜 네트워킹)
 
-
-![Group 925 (1)](https://user-images.githubusercontent.com/102597172/214616489-b9de1af6-b3b0-41f9-8d04-d94b5a569e19.png)
+<div align="center"><img src="https://user-images.githubusercontent.com/102597172/214616489-b9de1af6-b3b0-41f9-8d04-d94b5a569e19.png"></div
 
 
 <img width="1007" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214615256-d4578f1a-d17a-4e82-9516-1c0dbbdbcccb.png">
 
 
-# 미니 프로필 카드 활용 
-<div align="center"><img width="240" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214619078-cdf234f7-a2c8-4dc1-9bde-d704889cc040.png"></div>
-<div align="center"><img width="355" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214617505-8cd48c1e-ec02-4418-9b78-cf7b6355aef7.png"></div>
+# 미니 프로필 카드 활용
+
+<div align="center"><img height="240" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214619078-cdf234f7-a2c8-4dc1-9bde-d704889cc040.png">   <img height="240" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214617505-8cd48c1e-ec02-4418-9b78-cf7b6355aef7.png"></div>
 
 # ERD 설계
 
