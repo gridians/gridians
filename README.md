@@ -1,6 +1,8 @@
 # <img width="3%" src="https://user-images.githubusercontent.com/102597172/214474146-749e3bb8-9d5e-495b-b74e-f885aab97603.png"> 그리디언즈 <img width="3%" src="https://user-images.githubusercontent.com/102597172/214474146-749e3bb8-9d5e-495b-b74e-f885aab97603.png">
 그리디언즈는 명함 기반 개발자 중심 소통 플랫폼입니다. 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/102597172/214631606-dc0a6c86-b9a1-404a-a9f1-f1509298d5c4.gif)
+
 
 # 서비스 목적
 
