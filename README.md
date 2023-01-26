@@ -13,13 +13,17 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/102597172/214616489-b9de1af6-b3b0-41f9-8d04-d94b5a569e19.png"></div
 
+<img width="100%" src="https://user-images.githubusercontent.com/102597172/214474047-5f99ea94-a41b-4b3d-a6f8-e572c2f38cfc.png">
 
-<img width="1007" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214615256-d4578f1a-d17a-4e82-9516-1c0dbbdbcccb.png">
 
 
 # 미니 프로필 카드 활용
 
 <div align="center"><img height="240" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214619078-cdf234f7-a2c8-4dc1-9bde-d704889cc040.png">   <img height="240" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214617505-8cd48c1e-ec02-4418-9b78-cf7b6355aef7.png"></div>
+
+# 개인 정보 관리
+
+<img width="1007" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214615256-d4578f1a-d17a-4e82-9516-1c0dbbdbcccb.png">
 
 # ERD 설계
 
