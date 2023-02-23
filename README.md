@@ -1,32 +1,19 @@
-# 그리디언즈
-그리디언즈는 개발자  소통 플랫폼입니다. 
+# <div align="center">그리디언즈</div>
+<div align="center">그리디언즈는 개발자  소통 플랫폼입니다. </div>
 
-
-
-
-# 서비스 목적
-
-- [x] 한 곳에서 모든 개발 관련 정보들을 관리할 수 있게 도모 **(프로젝트, 포트폴리오, 블로그 관리)**
-- [x] 댓글 시스템으로 개발자간 소통 문제 해결 **(커뮤니케이션)**
-- [x] 등록만 해도 언제든 헤드헌터들의 제안을 받을 수 있는 시스템 **(취업, 이직)**
-- [x] 내가 좋아하는 개발자들을 즐겨찾기에 추가하여 꾸준히 팔로잉 **(소셜 네트워킹)**
-
-
-
-
-# ERD 설계
+# <div align="center">ERD 설계</div>
 
 <div align="center">
 <img width="80%" src="https://user-images.githubusercontent.com/102597172/214166496-dc734bc4-b445-4536-b172-31e6cd893840.png">
 </div>
 
-# 요구사항 명세서
+# <div align="center">요구사항 명세서</div>
 
 <div align="center">
 <img width="80%" alt="Shot" src="https://user-images.githubusercontent.com/102597172/214167242-2b385751-0d23-4e16-97d2-eb0c48cba742.png">
 </div>
 
-# 서비스 소개
+# <div align="center">서비스 소개</div>
 
 <div align="center">
 <img width="50%" src="https://user-images.githubusercontent.com/102597172/220947426-97458f3c-a382-47c0-9564-18845bc3c807.png">
