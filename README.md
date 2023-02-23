@@ -1,5 +1,5 @@
 # <div align="center">그리디언즈</div>
-<div align="center">그리디언즈는 개발자  소통 플랫폼입니다. </div>
+<div align="center">그리디언즈는 개발자 올인원 플랫폼입니다. 평소 개발자로서 답답했던 부분을 어느 정도 해소하고자 시작된 프로젝트입니다. </div>
 
 # <div align="center">ERD 설계</div>
 
