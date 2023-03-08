@@ -1,0 +1,6 @@
+[submodule "gridians-be"]
+	path = gridians-be
+	url = https://github.com/gridians/gridians-be.git
+[submodule "gridians-fe"]
+	path = gridians-fe
+	url = https://github.com/gridians/gridians-fe.git
