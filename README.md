@@ -17,7 +17,7 @@
 
 
 <div align="center">
-<img width="80%" alt="Shot" src="https://user-images.githubusercontent.com/102597172/223417804-1d679263-5aa5-4edd-9deb-d148b3465c92.png">
+<img width="800px" alt="Shot" src="https://user-images.githubusercontent.com/102597172/223417804-1d679263-5aa5-4edd-9deb-d148b3465c92.png">
 </div>
 
 # <div align="center">서비스 소개</div>
