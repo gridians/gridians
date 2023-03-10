@@ -15,7 +15,7 @@
 # <div align="center">설계</div>
 
 <div align="center">
-<img width="800px" src="https://user-images.githubusercontent.com/102597172/223416489-5c5ea324-faa7-454a-b1f4-320a992a9b84.png">
+<img width="800px" src="https://user-images.githubusercontent.com/102597172/224207564-2d2110f6-27da-4a48-9a1c-257ae8bfe084.png">
 </div>
 
 <div align="center">
