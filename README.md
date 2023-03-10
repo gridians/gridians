@@ -1,5 +1,12 @@
 # <div align="center">그리디언즈</div>
-<div align="center">그리디언즈는 개발자 올인원 플랫폼입니다. 평소 개발자로서 답답했던 부분을 어느 정도 해소하고자 시작된 프로젝트입니다. </div>
+
+
+<div align="center"><img width="50%" alt="Shot 110" src="https://user-images.githubusercontent.com/102597172/224198958-3ed37a39-abef-4ecf-90b0-ae17ceb7a49c.png"></div>
+
+
+
+<br><div align="center"><strong>그리디언즈</strong>는 개발자 올인원 플랫폼입니다. 
+<br>평소 개발자로서 답답했던 부분을 어느 정도 해소하고자 시작된 프로젝트입니다. </div>
 
 
 
